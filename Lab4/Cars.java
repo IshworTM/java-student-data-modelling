@@ -26,10 +26,5 @@ public class Cars {
 
         Cars bmwCar = new Cars("Model I8", 400);
         System.out.println("Obj two" + bmwCar.price);
-
-
-
     }
-
-
 }
